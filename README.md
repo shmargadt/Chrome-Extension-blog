@@ -78,4 +78,8 @@ first time and then you can upload your extension when you wish to update it.
 In this article, I tried to describe the whole picture of developing and uploading a chrome
 extension. It lacks the main part of the programming, this skill you will learn with your great
 teacher, you can find it in any home, mostly near the computer screen – your keyboard.
-Good Luck!
+
+
+
+
+### ***Good Luck!***
