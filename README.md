@@ -87,8 +87,9 @@ teacher, you can find it in any home, mostly near the computer screen – your k
 
 
 
-### =========================
-***External Links:*** 
+# 
+### ***External Links:*** 
+# 
 
 [Manifest File Format](https://developer.chrome.com/extensions/manifest)
 
