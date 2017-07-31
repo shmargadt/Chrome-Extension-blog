@@ -95,6 +95,6 @@ teacher, you can find it in any home, mostly near the computer screen – your k
 
 [Getting Started Toturial](https://developer.chrome.com/extensions/getstarted)
 
-[Developer Dashboard](https://accounts.google.com/signin/v2/sl/pwd?service=chromewebstore&continue=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdeveloper%2Fdashboard%3Fhl%3Den-US&passive=3600&hl=en-US&authuser=0&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
+[Developer Dashboard](https://www.google.co.il/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwip37bB47LVAhXMExoKHZO9CHgQFgg4MAM&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdeveloper%2Fdashboard%3Fhl%3Den&usg=AFQjCNFkGvhVT0XZIV9U0xEvi0BtQ_s6GQ)
 
 [Gmail.JS](https://github.com/KartikTalwar/gmail.js/tree/master)
